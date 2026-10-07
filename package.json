@@ -1,9 +1,9 @@
 {
   "name": "naba-game-dev-template",
   "displayName": "NABA Game Dev template",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "type": "template",
-  "unity": "6000.3.6f1",
+  "unity": "6000.3.19f1",
   "description": "A template project for the Game Development 1 course by Mauro Vanetti.",
   "dependencies": {
     "com.prototir.sdk": "https://github.com/prototir/unity-sdk.git#v0.4.0",
